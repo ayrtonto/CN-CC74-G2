@@ -1,0 +1,1001 @@
+ID_especie,Especie,Nivel_trófico,Interacción_con,Tipo_de_interacción,Fuerza_de_interacción,Frecuencia_de_interacción,Impacto_ambiental
+1,Mono emperador,Productor,Caimán enano,Simbiosis,6,33,3
+3,Pez disco,Descomponedor,Nutria gigante,Parasitismo,7,15,4
+4,Tarántula,Productor,Pez disco,Descomposición,3,9,6
+5,Escorpión negro,Consumidor secundario,Hormiga bala,Competencia,5,35,9
+6,Arapaima,Consumidor secundario,Murciélago vampiro,Competencia,9,6,2
+9,Tamandúa,Consumidor secundario,Caimán enano,Herbivoría,7,28,2
+12,Mono leoncito,Consumidor secundario,Guacamaya roja,Competencia,6,2,3
+18,Mono emperador,Consumidor secundario,Cotorra,Descomposición,1,40,1
+21,Tarántula,Descomponedor,Mono leoncito,Herbivoría,4,49,10
+22,Mono capuchino,Descomponedor,Rana arborícola,Competencia,3,11,8
+23,Mono capuchino,Descomponedor,Tamandúa,Herbivoría,5,6,10
+24,Hormiga cortadora,Productor,Hoatzin,Parasitismo,8,43,3
+25,Martín pescador,Consumidor secundario,Pez gato,Depredación,8,46,10
+27,Hoatzin,Consumidor primario,Mono leoncito,Depredación,2,36,8
+29,Martín pescador,Productor,Colibrí,Competencia,7,31,5
+32,Pecarí,Consumidor primario,Pez globo de agua dulce,Competencia,1,17,7
+34,Mono choro,Consumidor secundario,Raya de agua dulce,Depredación,8,31,6
+35,Chotacabras,Consumidor primario,Pato criollo,Descomposición,9,13,3
+37,Tucán,Productor,Jaguar,Simbiosis,6,4,9
+38,Rana arborícola,Consumidor primario,Loro,Competencia,9,13,9
+39,Pecarí,Productor,Mono leoncito,Parasitismo,5,37,7
+41,Mono pichico,Productor,Mono belicoso,Competencia,6,20,1
+42,Anaconda,Productor,Rana venenosa,Depredación,8,20,2
+43,Aguará guazú,Productor,Libélula roja,Descomposición,10,40,10
+45,Mono nocturno,Productor,Jaguar,Herbivoría,2,8,3
+46,Mono titi pigmeo,Consumidor primario,Pez cuchillo,Depredación,7,26,1
+47,Tamandúa,Consumidor secundario,Hormiga bala,Competencia,8,47,6
+49,Gallina de monte,Consumidor primario,Hormiga cortadora,Herbivoría,1,2,6
+50,Mono titi pigmeo,Descomponedor,Guacamaya roja,Descomposición,3,31,3
+51,Mono titi pigmeo,Productor,Tigrillo,Competencia,10,26,8
+53,Tamandúa,Productor,Mono lanudo,Depredación,3,14,10
+54,Iguana,Descomponedor,Tucán,Depredación,10,35,3
+55,Anaconda,Descomponedor,Colibrí,Herbivoría,9,32,8
+57,Nutria gigante,Productor,Loro,Herbivoría,1,22,10
+60,Murciélago frutero,Productor,Mono titi,Parasitismo,10,36,6
+61,Serpiente coral,Consumidor secundario,Hormiga bala,Herbivoría,3,18,8
+62,Caimán enano,Consumidor primario,Mono titi pigmeo,Parasitismo,9,49,4
+63,Pez hacha,Consumidor secundario,Mono nocturno,Simbiosis,10,30,10
+64,Mono chorongo,Productor,Mariposa cristal,Herbivoría,8,4,5
+68,Tamandúa,Consumidor primario,Murciélago frutero,Herbivoría,6,21,7
+71,Oso hormiguero,Productor,Mono choro,Descomposición,10,3,7
+73,Puma,Descomponedor,Armadillo,Parasitismo,6,41,5
+74,Pez disco,Consumidor primario,Mono barrigudo,Herbivoría,10,46,5
+75,Murciélago vampiro,Productor,Mono titi,Competencia,1,42,1
+76,Pez globo de agua dulce,Productor,Mono belicoso,Parasitismo,5,8,2
+77,Raya de agua dulce,Productor,Carpintero,Competencia,9,13,6
+79,Oso hormiguero,Consumidor secundario,Mono ardilla,Descomposición,9,40,10
+81,Manatí amazónico,Consumidor secundario,Mono titi pigmeo,Parasitismo,6,45,10
+82,Mono nocturno,Consumidor primario,Martín pescador,Competencia,2,9,3
+83,Loro,Descomponedor,Tucán,Herbivoría,7,41,9
+84,Mono velludo,Productor,Serpiente coral,Parasitismo,1,37,6
+85,Mono araña,Consumidor primario,Colibrí,Herbivoría,5,20,4
+88,Pez disco,Descomponedor,Hoatzin,Parasitismo,9,48,10
+89,Pez beta salvaje,Consumidor primario,Armadillo,Competencia,10,11,7
+93,Rana arborícola,Consumidor secundario,Delfín rosado,Simbiosis,9,25,3
+96,Guacamaya roja,Descomponedor,Piraña roja,Parasitismo,7,27,8
+97,Caimán negro,Descomponedor,Pez beta salvaje,Depredación,4,9,5
+98,Mono lanudo,Consumidor primario,Armadillo,Descomposición,4,19,8
+100,Pez beta salvaje,Productor,Águila harpía,Competencia,8,49,6
+101,Manatí amazónico,Consumidor primario,Guacamayo,Parasitismo,8,50,6
+103,Murciélago frutero,Consumidor primario,Gallina de monte,Parasitismo,9,40,8
+105,Anaconda,Consumidor secundario,Guacamaya azul,Parasitismo,5,2,3
+110,Murciélago vampiro,Productor,Hormiga bala,Simbiosis,10,9,5
+111,Pez hacha,Productor,Piraña roja,Parasitismo,6,32,3
+112,Pato criollo,Consumidor primario,Boa constrictor,Descomposición,1,36,3
+113,Tamandúa,Descomponedor,Guacamaya azul,Parasitismo,4,39,1
+114,Mono belicoso,Consumidor secundario,Mono titi,Descomposición,2,37,1
+116,Rana arborícola,Descomponedor,Piraña roja,Simbiosis,7,5,3
+119,Caimán blanco,Descomponedor,Rana venenosa,Descomposición,1,28,4
+120,Boa constrictor,Productor,Caimán enano,Herbivoría,9,16,5
+121,Pato de torrente,Productor,Mono choro,Simbiosis,2,22,3
+122,Raya de agua dulce,Consumidor primario,Boa constrictor,Descomposición,2,1,10
+123,Tigrillo,Productor,Mono titi,Simbiosis,7,3,3
+124,Mono velludo,Productor,Manatí amazónico,Simbiosis,6,30,6
+126,Caimán enano,Consumidor primario,Pato de torrente,Depredación,7,29,9
+127,Mono pichico,Productor,Mono araña,Descomposición,10,31,1
+128,Mono ardilla,Productor,Serpiente coral,Depredación,9,14,4
+129,Murciélago vampiro,Productor,Mono capuchino,Descomposición,2,43,5
+130,Mono leoncito,Descomponedor,Mono belicoso,Herbivoría,4,8,8
+131,Rana arborícola,Productor,Delfín rosado,Competencia,6,3,2
+132,Martín pescador,Productor,Hoatzin,Herbivoría,9,49,7
+134,Mono titi pigmeo,Descomponedor,Capibara,Descomposición,10,46,3
+135,Escorpión negro,Productor,Serpiente coral,Parasitismo,2,4,9
+136,Libélula roja,Productor,Caimán negro,Herbivoría,4,6,9
+137,Hormiga bala,Descomponedor,Murciélago vampiro,Herbivoría,6,4,8
+141,Iguana,Productor,Manatí amazónico,Simbiosis,4,45,5
+143,Guacamayo,Productor,Colibrí,Herbivoría,3,39,9
+144,Chotacabras,Descomponedor,Rana venenosa,Parasitismo,2,45,7
+145,Mono lanudo,Descomponedor,Hoatzin,Parasitismo,6,10,5
+146,Armadillo,Productor,Guacamayo,Competencia,3,32,10
+147,Mono ardilla,Consumidor primario,Nutria gigante,Depredación,2,28,10
+148,Gallito de las rocas,Productor,Iguana,Parasitismo,5,22,9
+149,Anaconda,Consumidor secundario,Tigrillo,Simbiosis,8,42,5
+150,Murciélago vampiro,Productor,Rana arborícola,Simbiosis,1,36,3
+151,Escorpión negro,Descomponedor,Piraña roja,Simbiosis,5,48,7
+153,Oso hormiguero,Consumidor primario,Mono choro,Herbivoría,4,26,1
+154,Carpintero,Productor,Caimán blanco,Simbiosis,1,17,5
+158,Piraña roja,Consumidor primario,Serpiente liana,Descomposición,3,32,7
+160,Tarántula,Consumidor primario,Guacamaya roja,Descomposición,3,24,3
+161,Guacamaya roja,Descomponedor,Sajino,Parasitismo,6,38,4
+165,Mono ardilla,Consumidor primario,Nutria gigante,Depredación,10,40,2
+167,Cotorra,Productor,Mariposa cristal,Descomposición,2,18,7
+168,Loro,Consumidor secundario,Delfín rosado,Simbiosis,1,6,3
+169,Murciélago vampiro,Descomponedor,Capibara,Descomposición,7,47,3
+171,Hoatzin,Consumidor primario,Rana venenosa,Competencia,8,22,10
+172,Mono araña,Productor,Capibara,Simbiosis,9,6,2
+174,Murciélago frutero,Productor,Mono barrigudo,Simbiosis,2,47,10
+180,Murciélago frutero,Consumidor primario,Mono chorongo,Depredación,8,2,3
+181,Libélula roja,Consumidor primario,Delfín rosado,Herbivoría,4,33,1
+183,Boa constrictor,Productor,Arapaima,Competencia,4,39,5
+184,Pez beta salvaje,Consumidor secundario,Sajino,Descomposición,8,26,4
+186,Gallina de monte,Consumidor primario,Cotorra,Simbiosis,10,38,10
+188,Mono barrigudo,Productor,Aguará guazú,Herbivoría,4,16,6
+189,Pez gato,Descomponedor,Armadillo,Descomposición,2,34,9
+192,Martín pescador,Consumidor secundario,Mono nocturno,Herbivoría,9,33,1
+193,Escorpión negro,Descomponedor,Jaguar,Herbivoría,3,4,6
+194,Capibara,Productor,Carpintero,Simbiosis,6,48,10
+195,Carpintero,Consumidor primario,Pez globo de agua dulce,Parasitismo,9,11,3
+196,Libélula roja,Consumidor primario,Rana venenosa,Competencia,6,13,3
+197,Mono titi,Descomponedor,Oso hormiguero,Descomposición,6,47,5
+198,Tigrillo,Consumidor secundario,Rana arborícola,Simbiosis,7,42,7
+199,Pez hacha,Consumidor primario,Chotacabras,Herbivoría,3,27,9
+200,Hormiga bala,Consumidor primario,Capibara,Competencia,9,19,1
+201,Perro de monte,Consumidor secundario,Rana venenosa,Depredación,8,45,6
+202,Mono choro,Descomponedor,Loro,Descomposición,8,23,9
+203,Zorro de oreja corta,Descomponedor,Martín pescador,Depredación,5,9,7
+204,Pez cuchillo,Consumidor primario,Boa constrictor,Competencia,2,36,3
+205,Mono pichico,Descomponedor,Sajino,Descomposición,7,40,10
+207,Mono titi,Descomponedor,Pez globo de agua dulce,Parasitismo,1,48,4
+208,Hormiga bala,Consumidor primario,Pez hacha,Competencia,6,16,7
+209,Capibara,Productor,Mono titi pigmeo,Competencia,2,16,6
+210,Martín pescador,Descomponedor,Capibara,Competencia,6,10,1
+212,Caimán enano,Consumidor primario,Guacamayo,Herbivoría,4,48,10
+214,Mono pichico,Consumidor secundario,Pato criollo,Competencia,9,29,2
+215,Gallito de las rocas,Consumidor primario,Capibara,Simbiosis,7,11,7
+216,Hormiga cortadora,Productor,Gallito de las rocas,Simbiosis,1,2,9
+217,Anaconda,Productor,Tamandúa,Descomposición,10,21,7
+220,Pez beta salvaje,Consumidor primario,Armadillo,Herbivoría,6,26,6
+224,Arapaima,Descomponedor,Hormiga bala,Simbiosis,6,2,3
+226,Jaguar,Consumidor primario,Hormiga cortadora,Parasitismo,10,18,8
+232,Cotorra,Consumidor secundario,Mono pichico,Parasitismo,10,32,3
+235,Gallito de las rocas,Consumidor primario,Pez beta salvaje,Herbivoría,6,5,2
+236,Raya de agua dulce,Descomponedor,Rana arborícola,Herbivoría,1,40,10
+237,Zorro de oreja corta,Descomponedor,Mono belicoso,Descomposición,9,21,8
+239,Murciélago frutero,Descomponedor,Pez hacha,Competencia,8,39,10
+241,Gallina de monte,Descomponedor,Libélula roja,Herbivoría,5,12,6
+242,Caimán enano,Consumidor primario,Serpiente coral,Depredación,6,13,4
+244,Delfín rosado,Descomponedor,Pez gato,Herbivoría,9,28,2
+245,Hormiga cortadora,Productor,Mono belicoso,Simbiosis,4,21,7
+246,Rana venenosa,Productor,Raya de agua dulce,Descomposición,1,16,10
+250,Caimán blanco,Productor,Pez beta salvaje,Competencia,7,35,9
+251,Tamandúa,Productor,Guacamaya roja,Descomposición,7,12,8
+255,Murciélago frutero,Productor,Caimán enano,Simbiosis,7,18,4
+257,Hormiga cortadora,Productor,Mono ardilla,Descomposición,3,20,4
+258,Mono titi,Descomponedor,Caimán enano,Simbiosis,4,5,6
+259,Mono choro,Consumidor primario,Tucán,Herbivoría,8,49,8
+261,Cotorra,Consumidor primario,Mono titi pigmeo,Competencia,3,43,3
+263,Escorpión negro,Descomponedor,Mono emperador,Parasitismo,7,44,6
+264,Gallina de monte,Descomponedor,Puma,Competencia,2,40,7
+266,Sajino,Consumidor primario,Pez globo de agua dulce,Depredación,4,17,2
+270,Tarántula,Consumidor primario,Mono titi,Herbivoría,10,3,2
+272,Iguana,Consumidor secundario,Pez gato,Herbivoría,7,50,9
+273,Iguana,Productor,Escorpión negro,Competencia,6,39,2
+276,Tigrillo,Descomponedor,Jaguar,Parasitismo,1,21,4
+277,Pato criollo,Productor,Mono belicoso,Simbiosis,8,15,3
+278,Rana venenosa,Productor,Pez globo de agua dulce,Depredación,6,11,9
+279,Mono belicoso,Consumidor secundario,Boa constrictor,Simbiosis,5,21,7
+280,Aguará guazú,Productor,Boa constrictor,Herbivoría,7,45,7
+281,Pez disco,Descomponedor,Caimán enano,Depredación,10,13,9
+282,Piraña roja,Productor,Murciélago vampiro,Competencia,5,50,5
+285,Pez hacha,Descomponedor,Pez cuchillo,Descomposición,10,50,2
+286,Mono barrigudo,Productor,Raya de agua dulce,Herbivoría,9,49,5
+287,Raya de agua dulce,Consumidor secundario,Boa constrictor,Depredación,2,35,6
+292,Mono aullador,Productor,Aguará guazú,Depredación,7,30,8
+294,Perro de monte,Descomponedor,Jaguar,Competencia,2,14,2
+295,Armadillo,Consumidor secundario,Pez gato,Simbiosis,1,48,2
+296,Hormiga cortadora,Consumidor secundario,Armadillo,Simbiosis,9,36,3
+297,Caimán blanco,Productor,Rana arborícola,Parasitismo,10,2,1
+299,Serpiente liana,Consumidor secundario,Martín pescador,Herbivoría,2,36,1
+300,Mono ardilla,Productor,Nutria gigante,Parasitismo,9,32,9
+302,Pez disco,Consumidor secundario,Escorpión negro,Competencia,4,19,3
+303,Aguará guazú,Consumidor secundario,Murciélago frutero,Competencia,7,32,1
+307,Pecarí,Consumidor primario,Nutria gigante,Descomposición,2,40,1
+308,Pez cuchillo,Consumidor primario,Mono belicoso,Descomposición,2,19,2
+309,Jaguar,Productor,Boa constrictor,Herbivoría,1,29,8
+310,Gallina de monte,Consumidor primario,Rana arborícola,Depredación,6,32,2
+311,Tortuga charapa,Consumidor primario,Caimán blanco,Simbiosis,2,13,2
+312,Carpintero,Consumidor primario,Delfín rosado,Parasitismo,6,46,1
+313,Pez disco,Productor,Gallina de monte,Competencia,3,26,1
+315,Mariposa cristal,Consumidor primario,Aguará guazú,Herbivoría,4,17,9
+317,Mariposa cristal,Descomponedor,Mono emperador,Simbiosis,8,16,9
+318,Zorro de oreja corta,Consumidor primario,Guacamaya roja,Depredación,9,38,7
+319,Pato criollo,Consumidor secundario,Mono leoncito,Simbiosis,3,40,2
+322,Piraña roja,Consumidor primario,Mono capuchino,Herbivoría,1,36,5
+324,Mono belicoso,Consumidor primario,Guacamayo,Parasitismo,2,49,2
+325,Pez beta salvaje,Descomponedor,Águila harpía,Parasitismo,2,6,4
+326,Nutria gigante,Consumidor secundario,Pez disco,Herbivoría,3,29,7
+327,Pato de torrente,Consumidor primario,Murciélago frutero,Parasitismo,3,11,3
+329,Gallina de monte,Descomponedor,Guacamaya azul,Simbiosis,2,45,7
+331,Hormiga cortadora,Productor,Serpiente liana,Competencia,2,34,3
+333,Mono emperador,Consumidor primario,Mono velludo,Descomposición,7,35,1
+335,Anaconda,Consumidor primario,Tarántula,Descomposición,5,15,6
+336,Hormiga bala,Consumidor primario,Mono nocturno,Competencia,4,14,2
+337,Hormiga bala,Consumidor primario,Hoatzin,Depredación,1,1,6
+342,Delfín rosado,Descomponedor,Aguará guazú,Herbivoría,8,31,5
+344,Iguana,Descomponedor,Pez globo de agua dulce,Simbiosis,2,48,7
+348,Mono titi pigmeo,Consumidor secundario,Serpiente liana,Simbiosis,9,9,10
+349,Pez hacha,Consumidor primario,Arapaima,Herbivoría,5,46,8
+350,Nutria gigante,Descomponedor,Mono titi,Descomposición,10,28,5
+352,Pez hacha,Consumidor primario,Guacamaya roja,Herbivoría,7,32,4
+353,Pecarí,Consumidor secundario,Boa constrictor,Depredación,9,48,1
+354,Jaguar,Descomponedor,Mono choro,Competencia,3,17,7
+356,Loro,Consumidor secundario,Sajino,Simbiosis,7,47,7
+358,Hormiga cortadora,Productor,Pez hacha,Competencia,1,27,8
+360,Caimán blanco,Productor,Mono ardilla,Depredación,2,10,10
+361,Caimán negro,Descomponedor,Mono velludo,Parasitismo,7,12,5
+362,Pecarí,Productor,Mono leoncito,Herbivoría,5,7,10
+363,Cotorra,Consumidor secundario,Mono barrigudo,Herbivoría,7,5,5
+364,Chotacabras,Consumidor primario,Carpintero,Simbiosis,7,12,2
+365,Manatí amazónico,Productor,Mono belicoso,Depredación,9,50,4
+366,Murciélago vampiro,Productor,Iguana,Parasitismo,5,22,1
+367,Pato criollo,Consumidor primario,Manatí amazónico,Herbivoría,1,27,9
+368,Boa constrictor,Consumidor primario,Pez cuchillo,Parasitismo,10,5,2
+369,Colibrí,Consumidor secundario,Mono pichico,Depredación,2,26,5
+370,Aguará guazú,Productor,Piraña roja,Herbivoría,10,42,3
+371,Mono barrigudo,Descomponedor,Perro de monte,Parasitismo,3,42,8
+372,Águila harpía,Productor,Pato criollo,Descomposición,9,46,4
+373,Pez gato,Consumidor primario,Jaguar,Herbivoría,9,26,2
+377,Mono emperador,Consumidor primario,Gallina de monte,Herbivoría,4,15,10
+378,Capibara,Descomponedor,Rana venenosa,Descomposición,1,4,6
+380,Delfín rosado,Consumidor primario,Carpintero,Competencia,5,34,1
+382,Loro,Descomponedor,Piraña roja,Competencia,8,28,7
+383,Jaguar,Descomponedor,Pez globo de agua dulce,Herbivoría,2,15,7
+384,Mono barrigudo,Consumidor secundario,Pez gato,Herbivoría,3,12,10
+385,Caimán blanco,Consumidor primario,Murciélago frutero,Herbivoría,10,6,3
+386,Mono araña,Descomponedor,Mono capuchino,Simbiosis,5,36,3
+387,Mono araña,Descomponedor,Hoatzin,Parasitismo,1,10,6
+389,Hormiga bala,Productor,Tigrillo,Herbivoría,8,11,3
+390,Murciélago frutero,Productor,Tapir,Depredación,6,24,10
+391,Mono araña,Descomponedor,Guacamaya roja,Simbiosis,9,20,1
+393,Pato criollo,Descomponedor,Perro de monte,Parasitismo,9,30,3
+394,Rana venenosa,Productor,Rana arborícola,Parasitismo,1,40,2
+395,Caimán negro,Descomponedor,Serpiente liana,Descomposición,7,18,9
+397,Hormiga cortadora,Consumidor secundario,Mono pichico,Simbiosis,2,9,5
+400,Mono araña,Productor,Aguará guazú,Competencia,5,14,10
+403,Cotorra,Consumidor secundario,Pato criollo,Descomposición,9,9,10
+404,Carpintero,Productor,Martín pescador,Competencia,5,46,9
+405,Perro de monte,Descomponedor,Hormiga cortadora,Depredación,5,36,3
+406,Mono lanudo,Consumidor secundario,Mono barrigudo,Depredación,1,36,8
+407,Mono titi,Consumidor secundario,Gallito de las rocas,Simbiosis,6,32,9
+408,Mono velludo,Descomponedor,Mono araña,Descomposición,5,33,1
+409,Pato de torrente,Descomponedor,Boa constrictor,Competencia,3,42,1
+410,Serpiente coral,Consumidor secundario,Hoatzin,Competencia,7,47,10
+413,Rana venenosa,Productor,Nutria gigante,Simbiosis,5,40,5
+414,Nutria gigante,Consumidor secundario,Martín pescador,Herbivoría,8,47,6
+415,Aguará guazú,Consumidor primario,Caimán blanco,Competencia,8,42,6
+418,Anaconda,Descomponedor,Pato criollo,Parasitismo,9,10,1
+419,Rana arborícola,Consumidor secundario,Mono ardilla,Simbiosis,3,15,2
+420,Pato criollo,Productor,Capibara,Competencia,5,18,1
+422,Mono emperador,Productor,Mono leoncito,Simbiosis,9,24,7
+423,Mono araña,Descomponedor,Águila harpía,Depredación,5,36,10
+424,Pecarí,Consumidor primario,Iguana,Descomposición,10,11,2
+426,Serpiente coral,Productor,Mono choro,Competencia,10,16,9
+429,Serpiente coral,Consumidor primario,Zorro de oreja corta,Herbivoría,2,20,5
+431,Delfín rosado,Consumidor primario,Murciélago vampiro,Descomposición,10,43,7
+432,Pez cuchillo,Productor,Loro,Simbiosis,7,21,1
+433,Aguará guazú,Descomponedor,Mono titi,Descomposición,8,23,1
+436,Martín pescador,Productor,Aguará guazú,Descomposición,1,31,2
+438,Hoatzin,Consumidor primario,Mono aullador,Herbivoría,10,7,1
+440,Mono choro,Consumidor secundario,Colibrí,Competencia,8,27,9
+441,Mono araña,Productor,Anaconda,Competencia,4,44,1
+442,Mono pichico,Productor,Raya de agua dulce,Parasitismo,6,41,5
+444,Armadillo,Consumidor primario,Martín pescador,Herbivoría,9,15,5
+447,Mono emperador,Consumidor secundario,Pez gato,Parasitismo,8,3,6
+448,Rana venenosa,Descomponedor,Pez gato,Parasitismo,7,19,6
+449,Perro de monte,Descomponedor,Mono pichico,Competencia,8,48,7
+451,Mono araña,Consumidor secundario,Arapaima,Depredación,2,13,4
+453,Mono capuchino,Consumidor secundario,Escorpión negro,Descomposición,1,19,3
+456,Tucán,Consumidor secundario,Caimán blanco,Simbiosis,10,5,6
+458,Mono titi,Descomponedor,Serpiente coral,Descomposición,4,1,8
+459,Libélula roja,Descomponedor,Mono emperador,Parasitismo,1,41,7
+460,Tapir,Consumidor primario,Mono choro,Competencia,1,45,7
+461,Mono lanudo,Productor,Boa constrictor,Depredación,6,7,5
+464,Sajino,Consumidor primario,Mono nocturno,Descomposición,1,44,3
+465,Hormiga bala,Consumidor secundario,Murciélago frutero,Competencia,7,41,10
+466,Tamandúa,Consumidor secundario,Rana arborícola,Depredación,2,29,7
+468,Murciélago frutero,Consumidor secundario,Tarántula,Depredación,8,43,4
+469,Perro de monte,Consumidor primario,Tortuga charapa,Herbivoría,3,34,9
+473,Mono araña,Consumidor primario,Tortuga charapa,Simbiosis,4,29,1
+474,Mono lanudo,Productor,Mono velludo,Depredación,4,15,1
+475,Mono leoncito,Descomponedor,Murciélago frutero,Herbivoría,10,19,9
+478,Tortuga charapa,Descomponedor,Hoatzin,Descomposición,3,14,1
+479,Cotorra,Descomponedor,Pez gato,Simbiosis,3,34,8
+480,Guacamaya roja,Descomponedor,Tamandúa,Descomposición,6,5,2
+481,Caimán negro,Productor,Guacamaya roja,Descomposición,5,50,7
+482,Pez globo de agua dulce,Productor,Mono leoncito,Competencia,7,7,3
+483,Raya de agua dulce,Consumidor secundario,Boa constrictor,Simbiosis,10,28,7
+484,Mono nocturno,Consumidor primario,Libélula roja,Simbiosis,1,26,4
+485,Pez beta salvaje,Consumidor secundario,Mono araña,Depredación,4,27,1
+487,Perro de monte,Consumidor secundario,Mono emperador,Descomposición,10,24,2
+488,Mono belicoso,Consumidor secundario,Murciélago vampiro,Parasitismo,1,22,4
+489,Mono belicoso,Consumidor primario,Anaconda,Simbiosis,10,29,7
+490,Pato de torrente,Consumidor primario,Aguará guazú,Parasitismo,8,9,5
+491,Pez cuchillo,Consumidor primario,Mono chorongo,Simbiosis,2,29,2
+492,Pez beta salvaje,Descomponedor,Delfín rosado,Competencia,9,32,4
+497,Pecarí,Productor,Mono ardilla,Descomposición,8,19,4
+498,Mono leoncito,Descomponedor,Mono velludo,Descomposición,10,4,3
+499,Carpintero,Consumidor secundario,Pez disco,Descomposición,9,16,7
+503,Capibara,Productor,Tucán,Simbiosis,7,33,2
+504,Mono titi pigmeo,Consumidor primario,Pez cuchillo,Parasitismo,9,18,8
+505,Mono aullador,Descomponedor,Capibara,Simbiosis,3,34,3
+507,Gallito de las rocas,Productor,Colibrí,Simbiosis,5,18,5
+508,Pez beta salvaje,Descomponedor,Tucán,Descomposición,7,6,1
+510,Hormiga cortadora,Descomponedor,Raya de agua dulce,Competencia,2,19,8
+511,Tapir,Productor,Pez globo de agua dulce,Simbiosis,2,8,2
+515,Mono nocturno,Consumidor primario,Mono titi pigmeo,Parasitismo,6,31,8
+516,Jaguar,Productor,Gallina de monte,Herbivoría,1,26,1
+520,Mono barrigudo,Consumidor primario,Serpiente liana,Simbiosis,5,34,7
+522,Pez globo de agua dulce,Productor,Cotorra,Depredación,8,19,7
+523,Raya de agua dulce,Descomponedor,Murciélago vampiro,Simbiosis,5,24,6
+524,Caimán negro,Descomponedor,Pez beta salvaje,Competencia,3,19,8
+528,Tapir,Productor,Mono aullador,Simbiosis,1,2,6
+529,Mono leoncito,Descomponedor,Mono araña,Descomposición,8,35,9
+530,Mono barrigudo,Productor,Colibrí,Parasitismo,5,27,10
+531,Jaguar,Productor,Mono araña,Depredación,7,39,3
+532,Mono belicoso,Consumidor primario,Hormiga cortadora,Parasitismo,3,5,8
+533,Tapir,Consumidor primario,Nutria gigante,Depredación,6,11,3
+534,Mono lanudo,Consumidor secundario,Manatí amazónico,Competencia,9,18,5
+536,Piraña roja,Consumidor primario,Pez beta salvaje,Simbiosis,10,25,2
+537,Nutria gigante,Consumidor primario,Mono barrigudo,Descomposición,3,35,4
+538,Loro,Consumidor primario,Tucán,Depredación,9,9,2
+541,Pez globo de agua dulce,Productor,Jaguar,Simbiosis,1,31,9
+545,Pez disco,Consumidor secundario,Pez hacha,Depredación,6,25,1
+546,Tamandúa,Consumidor secundario,Caimán negro,Competencia,1,16,2
+548,Raya de agua dulce,Consumidor primario,Mono nocturno,Herbivoría,7,30,5
+550,Mono leoncito,Descomponedor,Hormiga cortadora,Parasitismo,1,50,2
+551,Tarántula,Descomponedor,Pez beta salvaje,Descomposición,10,31,2
+555,Guacamaya roja,Productor,Serpiente coral,Parasitismo,6,13,7
+556,Delfín rosado,Consumidor secundario,Hormiga cortadora,Descomposición,1,28,4
+558,Rana arborícola,Consumidor primario,Oso hormiguero,Parasitismo,9,19,10
+559,Iguana,Consumidor secundario,Pez beta salvaje,Simbiosis,2,10,3
+560,Oso hormiguero,Consumidor secundario,Serpiente liana,Simbiosis,3,50,5
+562,Mono velludo,Consumidor primario,Mono araña,Herbivoría,5,5,7
+563,Tamandúa,Consumidor primario,Pato criollo,Descomposición,5,10,4
+565,Mono emperador,Consumidor primario,Pez cuchillo,Simbiosis,6,11,9
+566,Piraña roja,Descomponedor,Manatí amazónico,Competencia,8,50,2
+569,Mono nocturno,Descomponedor,Perro de monte,Competencia,3,23,6
+571,Mono belicoso,Descomponedor,Anaconda,Depredación,1,29,8
+572,Cotorra,Consumidor secundario,Delfín rosado,Simbiosis,9,9,8
+573,Mono capuchino,Consumidor primario,Mono choro,Competencia,1,44,5
+574,Pez gato,Consumidor secundario,Mono chorongo,Simbiosis,8,38,5
+575,Pez gato,Descomponedor,Rana venenosa,Herbivoría,3,7,1
+581,Pez cuchillo,Consumidor secundario,Gallito de las rocas,Depredación,3,25,2
+582,Pez gato,Consumidor primario,Mono emperador,Herbivoría,3,28,6
+583,Guacamaya azul,Consumidor secundario,Rana arborícola,Competencia,8,9,8
+584,Rana venenosa,Consumidor secundario,Pecarí,Herbivoría,6,30,1
+585,Águila harpía,Consumidor primario,Hormiga bala,Depredación,6,42,8
+587,Chotacabras,Consumidor primario,Carpintero,Parasitismo,7,29,9
+589,Murciélago frutero,Productor,Águila harpía,Descomposición,7,18,7
+594,Rana venenosa,Productor,Manatí amazónico,Parasitismo,6,1,8
+598,Guacamaya azul,Consumidor primario,Águila harpía,Herbivoría,6,42,5
+599,Gallito de las rocas,Descomponedor,Mono aullador,Depredación,10,2,5
+600,Mono barrigudo,Descomponedor,Martín pescador,Parasitismo,7,29,4
+601,Puma,Productor,Hormiga cortadora,Competencia,6,49,9
+602,Gallina de monte,Productor,Delfín rosado,Competencia,3,42,5
+603,Arapaima,Consumidor primario,Tarántula,Simbiosis,9,8,2
+608,Mono ardilla,Consumidor primario,Capibara,Depredación,3,28,8
+610,Mono pichico,Consumidor primario,Hormiga bala,Competencia,2,9,9
+611,Loro,Productor,Escorpión negro,Parasitismo,6,26,6
+613,Pato criollo,Productor,Caimán blanco,Parasitismo,4,24,8
+614,Carpintero,Productor,Caimán enano,Parasitismo,9,6,4
+616,Rana venenosa,Descomponedor,Mono titi pigmeo,Parasitismo,8,13,2
+618,Capibara,Descomponedor,Pecarí,Competencia,8,35,3
+619,Pato criollo,Consumidor secundario,Mariposa cristal,Parasitismo,8,31,2
+620,Guacamaya roja,Consumidor primario,Sajino,Herbivoría,10,17,2
+622,Escorpión negro,Productor,Mariposa cristal,Simbiosis,8,41,7
+623,Iguana,Descomponedor,Anaconda,Simbiosis,9,29,1
+624,Carpintero,Consumidor primario,Tarántula,Simbiosis,3,27,9
+626,Colibrí,Consumidor primario,Tortuga charapa,Competencia,6,17,2
+627,Pez beta salvaje,Descomponedor,Caimán enano,Depredación,10,41,7
+628,Oso hormiguero,Productor,Manatí amazónico,Parasitismo,9,43,7
+629,Rana venenosa,Consumidor secundario,Pez globo de agua dulce,Descomposición,4,44,9
+631,Murciélago frutero,Consumidor secundario,Pez disco,Herbivoría,2,43,5
+632,Murciélago frutero,Productor,Aguará guazú,Herbivoría,7,22,7
+634,Tamandúa,Productor,Mono araña,Herbivoría,6,6,7
+635,Serpiente liana,Consumidor secundario,Oso hormiguero,Competencia,9,39,3
+636,Iguana,Productor,Mono lanudo,Parasitismo,6,49,7
+637,Pez globo de agua dulce,Consumidor primario,Mono aullador,Descomposición,9,27,2
+640,Raya de agua dulce,Productor,Mono belicoso,Herbivoría,2,11,7
+641,Zorro de oreja corta,Descomponedor,Pez cuchillo,Parasitismo,6,47,10
+642,Gallina de monte,Consumidor primario,Cotorra,Depredación,2,17,6
+643,Mono capuchino,Productor,Mono aullador,Parasitismo,4,12,7
+645,Mariposa cristal,Productor,Jaguar,Descomposición,7,4,9
+648,Mono lanudo,Productor,Guacamayo,Herbivoría,3,50,2
+649,Tapir,Consumidor secundario,Tucán,Competencia,6,18,5
+650,Aguará guazú,Descomponedor,Loro,Herbivoría,8,14,8
+652,Serpiente liana,Consumidor primario,Tortuga charapa,Depredación,10,45,2
+654,Guacamayo,Consumidor primario,Murciélago frutero,Competencia,2,11,4
+659,Sajino,Consumidor primario,Pato criollo,Simbiosis,10,47,8
+660,Sajino,Descomponedor,Puma,Competencia,7,14,5
+661,Tigrillo,Descomponedor,Arapaima,Depredación,7,31,10
+662,Tapir,Descomponedor,Pez hacha,Depredación,7,8,5
+663,Tigrillo,Descomponedor,Loro,Herbivoría,6,11,8
+664,Mono belicoso,Consumidor primario,Rana arborícola,Descomposición,2,8,5
+666,Caimán blanco,Productor,Guacamaya roja,Competencia,10,18,7
+669,Caimán enano,Consumidor secundario,Tortuga charapa,Depredación,5,43,9
+670,Nutria gigante,Consumidor primario,Caimán negro,Herbivoría,2,9,3
+671,Arapaima,Descomponedor,Martín pescador,Simbiosis,6,3,1
+673,Tucán,Productor,Delfín rosado,Depredación,7,36,6
+675,Tamandúa,Descomponedor,Tigrillo,Descomposición,8,25,9
+679,Mono chorongo,Consumidor primario,Martín pescador,Herbivoría,7,9,9
+681,Mono ardilla,Consumidor secundario,Serpiente liana,Herbivoría,7,10,8
+682,Mono titi,Consumidor primario,Piraña roja,Simbiosis,10,35,10
+685,Martín pescador,Consumidor secundario,Cotorra,Herbivoría,6,41,5
+686,Tarántula,Productor,Mono aullador,Parasitismo,2,8,7
+687,Mono titi pigmeo,Consumidor secundario,Murciélago vampiro,Herbivoría,8,2,7
+689,Colibrí,Productor,Guacamayo,Simbiosis,2,3,4
+692,Mono titi pigmeo,Productor,Mono leoncito,Competencia,8,15,2
+694,Rana arborícola,Consumidor secundario,Pez beta salvaje,Parasitismo,2,31,1
+695,Guacamaya roja,Descomponedor,Oso hormiguero,Depredación,3,23,7
+696,Mono belicoso,Consumidor secundario,Rana venenosa,Herbivoría,5,9,7
+697,Aguará guazú,Consumidor primario,Pez gato,Depredación,3,1,1
+698,Rana arborícola,Consumidor secundario,Caimán enano,Parasitismo,6,47,1
+701,Mono araña,Descomponedor,Loro,Competencia,9,17,9
+702,Puma,Consumidor primario,Nutria gigante,Depredación,10,9,7
+708,Mono ardilla,Productor,Mono belicoso,Depredación,5,5,10
+709,Caimán enano,Descomponedor,Loro,Depredación,6,31,4
+711,Mono capuchino,Consumidor secundario,Mono choro,Herbivoría,6,10,7
+712,Nutria gigante,Consumidor secundario,Mono emperador,Simbiosis,3,28,1
+713,Pez beta salvaje,Descomponedor,Pez disco,Depredación,9,27,8
+714,Mono pichico,Productor,Tortuga charapa,Depredación,3,40,6
+718,Caimán enano,Consumidor secundario,Mono emperador,Competencia,5,48,5
+719,Iguana,Descomponedor,Perro de monte,Herbivoría,9,23,3
+720,Pez gato,Consumidor secundario,Pez globo de agua dulce,Competencia,2,13,6
+722,Mono barrigudo,Consumidor secundario,Perro de monte,Herbivoría,6,45,10
+725,Chotacabras,Consumidor secundario,Murciélago frutero,Parasitismo,1,40,7
+727,Caimán negro,Consumidor primario,Jaguar,Depredación,10,18,8
+729,Pez disco,Consumidor primario,Mono chorongo,Competencia,4,10,5
+731,Carpintero,Descomponedor,Mono choro,Herbivoría,9,29,8
+732,Boa constrictor,Consumidor secundario,Mono pichico,Herbivoría,9,44,9
+733,Guacamayo,Productor,Tapir,Depredación,7,30,4
+734,Pato de torrente,Productor,Martín pescador,Simbiosis,7,34,9
+737,Zorro de oreja corta,Descomponedor,Delfín rosado,Descomposición,9,36,1
+738,Tarántula,Productor,Piraña roja,Parasitismo,5,16,7
+740,Caimán blanco,Descomponedor,Puma,Herbivoría,3,25,3
+744,Murciélago frutero,Consumidor secundario,Mono pichico,Simbiosis,9,42,8
+745,Mono emperador,Consumidor secundario,Mono capuchino,Descomposición,4,31,7
+748,Gallito de las rocas,Productor,Mono araña,Parasitismo,2,44,8
+752,Hoatzin,Consumidor primario,Serpiente liana,Descomposición,7,45,10
+753,Manatí amazónico,Consumidor secundario,Gallito de las rocas,Descomposición,10,16,1
+756,Pecarí,Consumidor primario,Pato criollo,Descomposición,7,5,7
+758,Tortuga charapa,Descomponedor,Mono titi pigmeo,Competencia,1,47,5
+759,Guacamaya roja,Consumidor secundario,Tapir,Descomposición,4,29,3
+760,Nutria gigante,Descomponedor,Tarántula,Simbiosis,3,5,8
+761,Martín pescador,Consumidor primario,Pez disco,Descomposición,5,36,7
+762,Pato criollo,Descomponedor,Mono ardilla,Competencia,7,27,3
+763,Mono velludo,Descomponedor,Mono choro,Parasitismo,6,32,2
+765,Pez beta salvaje,Consumidor primario,Pez cuchillo,Competencia,5,36,6
+766,Mono aullador,Consumidor primario,Guacamaya roja,Competencia,9,17,9
+768,Capibara,Descomponedor,Mono lanudo,Herbivoría,6,46,10
+770,Boa constrictor,Consumidor primario,Mono choro,Descomposición,2,26,2
+771,Anaconda,Descomponedor,Colibrí,Depredación,8,22,9
+772,Hormiga cortadora,Descomponedor,Carpintero,Competencia,6,26,5
+773,Mono titi pigmeo,Productor,Tamandúa,Parasitismo,3,34,8
+777,Rana venenosa,Descomponedor,Delfín rosado,Descomposición,1,27,3
+780,Mono velludo,Productor,Tamandúa,Herbivoría,7,45,4
+781,Murciélago vampiro,Descomponedor,Mono aullador,Descomposición,3,16,9
+786,Oso hormiguero,Descomponedor,Pez beta salvaje,Simbiosis,6,4,6
+787,Libélula roja,Consumidor secundario,Tamandúa,Depredación,1,26,6
+792,Murciélago frutero,Descomponedor,Mono ardilla,Herbivoría,7,38,5
+793,Oso hormiguero,Descomponedor,Mono leoncito,Competencia,10,37,8
+794,Raya de agua dulce,Productor,Mono nocturno,Competencia,4,36,7
+795,Jaguar,Consumidor primario,Nutria gigante,Descomposición,4,39,10
+796,Gallina de monte,Descomponedor,Serpiente coral,Herbivoría,2,50,10
+802,Caimán enano,Productor,Pez globo de agua dulce,Simbiosis,7,27,4
+804,Caimán negro,Consumidor secundario,Armadillo,Depredación,10,25,9
+807,Pez disco,Descomponedor,Libélula roja,Depredación,10,40,7
+809,Guacamaya azul,Productor,Colibrí,Descomposición,9,45,1
+810,Puma,Consumidor secundario,Gallina de monte,Descomposición,6,16,3
+811,Pez beta salvaje,Consumidor primario,Piraña roja,Herbivoría,6,5,2
+813,Hormiga cortadora,Descomponedor,Guacamayo,Descomposición,1,9,5
+815,Zorro de oreja corta,Descomponedor,Caimán negro,Depredación,10,46,3
+819,Tapir,Consumidor secundario,Zorro de oreja corta,Descomposición,3,30,10
+820,Cotorra,Consumidor secundario,Pato de torrente,Competencia,10,23,3
+821,Loro,Descomponedor,Raya de agua dulce,Parasitismo,4,8,3
+829,Tapir,Consumidor primario,Murciélago vampiro,Competencia,9,20,7
+834,Mariposa cristal,Productor,Mono barrigudo,Descomposición,3,30,9
+836,Libélula roja,Consumidor secundario,Armadillo,Competencia,8,28,2
+837,Jaguar,Productor,Chotacabras,Simbiosis,10,20,6
+838,Armadillo,Consumidor primario,Mono titi pigmeo,Herbivoría,10,27,6
+839,Chotacabras,Consumidor secundario,Tucán,Simbiosis,8,14,4
+841,Tigrillo,Productor,Tamandúa,Competencia,1,35,9
+842,Pez gato,Productor,Mono nocturno,Competencia,7,5,1
+844,Mono barrigudo,Consumidor primario,Jaguar,Depredación,6,14,6
+848,Mono nocturno,Descomponedor,Tamandúa,Depredación,6,5,4
+849,Martín pescador,Consumidor secundario,Cotorra,Depredación,6,25,8
+850,Mono belicoso,Consumidor primario,Pez disco,Competencia,3,42,10
+851,Iguana,Consumidor secundario,Puma,Depredación,8,21,3
+852,Águila harpía,Consumidor primario,Hormiga bala,Herbivoría,5,19,9
+853,Loro,Productor,Tamandúa,Simbiosis,7,36,5
+854,Águila harpía,Consumidor secundario,Iguana,Simbiosis,6,27,2
+856,Guacamayo,Descomponedor,Nutria gigante,Simbiosis,9,16,5
+857,Puma,Descomponedor,Hormiga bala,Parasitismo,10,40,5
+859,Manatí amazónico,Productor,Mono emperador,Descomposición,3,10,2
+861,Aguará guazú,Descomponedor,Guacamayo,Competencia,9,20,4
+862,Arapaima,Consumidor primario,Nutria gigante,Descomposición,9,40,1
+864,Boa constrictor,Descomponedor,Piraña roja,Parasitismo,10,13,2
+868,Pez cuchillo,Consumidor secundario,Tamandúa,Parasitismo,1,18,10
+870,Pez cuchillo,Consumidor primario,Puma,Herbivoría,4,24,9
+875,Puma,Productor,Libélula roja,Descomposición,2,45,3
+876,Pez globo de agua dulce,Descomponedor,Mono nocturno,Simbiosis,1,35,8
+880,Caimán negro,Consumidor secundario,Águila harpía,Herbivoría,1,38,7
+882,Mono choro,Descomponedor,Mono velludo,Parasitismo,1,7,9
+883,Pecarí,Consumidor secundario,Serpiente liana,Depredación,9,33,3
+885,Manatí amazónico,Consumidor secundario,Caimán enano,Parasitismo,5,35,6
+889,Mono nocturno,Consumidor secundario,Mono titi,Competencia,3,12,8
+892,Guacamaya roja,Consumidor primario,Mono araña,Depredación,7,20,3
+894,Mono choro,Consumidor primario,Tamandúa,Depredación,6,27,3
+895,Serpiente liana,Productor,Caimán blanco,Herbivoría,2,40,1
+896,Libélula roja,Productor,Gallina de monte,Parasitismo,8,2,2
+899,Rana venenosa,Consumidor primario,Mono aullador,Competencia,2,2,3
+900,Tarántula,Consumidor primario,Mono choro,Simbiosis,8,31,6
+902,Gallito de las rocas,Consumidor secundario,Colibrí,Parasitismo,3,16,4
+904,Carpintero,Consumidor secundario,Mono aullador,Parasitismo,8,22,7
+905,Loro,Descomponedor,Mono titi,Parasitismo,7,17,8
+907,Mono araña,Consumidor secundario,Hormiga cortadora,Competencia,9,36,9
+908,Oso hormiguero,Descomponedor,Serpiente coral,Herbivoría,1,10,4
+910,Pato de torrente,Descomponedor,Mono ardilla,Descomposición,3,28,5
+912,Capibara,Descomponedor,Arapaima,Herbivoría,9,40,4
+913,Mono titi pigmeo,Productor,Cotorra,Parasitismo,3,31,5
+915,Libélula roja,Consumidor primario,Hoatzin,Descomposición,3,20,5
+916,Rana arborícola,Descomponedor,Raya de agua dulce,Simbiosis,5,40,2
+917,Murciélago frutero,Consumidor secundario,Gallito de las rocas,Herbivoría,3,14,3
+918,Carpintero,Descomponedor,Zorro de oreja corta,Depredación,3,20,5
+919,Pez hacha,Consumidor secundario,Puma,Simbiosis,10,4,9
+921,Escorpión negro,Descomponedor,Mono araña,Depredación,8,4,6
+925,Mono chorongo,Descomponedor,Pez hacha,Descomposición,7,34,1
+926,Nutria gigante,Descomponedor,Perro de monte,Competencia,10,30,2
+928,Murciélago vampiro,Consumidor primario,Mono aullador,Herbivoría,10,25,4
+929,Hormiga cortadora,Descomponedor,Pez beta salvaje,Descomposición,5,43,10
+931,Cotorra,Consumidor secundario,Caimán enano,Descomposición,5,8,2
+932,Loro,Consumidor primario,Mariposa cristal,Herbivoría,9,5,3
+934,Caimán negro,Consumidor secundario,Pez beta salvaje,Herbivoría,3,1,9
+935,Martín pescador,Consumidor secundario,Tapir,Descomposición,9,29,4
+936,Tapir,Descomponedor,Mono velludo,Competencia,10,49,1
+937,Mono capuchino,Consumidor secundario,Escorpión negro,Parasitismo,10,48,2
+940,Armadillo,Descomponedor,Mono araña,Simbiosis,1,20,4
+944,Anaconda,Productor,Hoatzin,Descomposición,9,25,9
+946,Pez hacha,Descomponedor,Hormiga cortadora,Depredación,4,38,10
+950,Mono choro,Consumidor secundario,Colibrí,Descomposición,1,5,7
+952,Mono choro,Consumidor secundario,Pez gato,Parasitismo,6,16,10
+953,Gallina de monte,Consumidor secundario,Mono emperador,Simbiosis,4,41,9
+955,Capibara,Consumidor secundario,Guacamaya roja,Depredación,3,14,1
+956,Mono velludo,Consumidor secundario,Serpiente coral,Descomposición,6,5,5
+957,Gallito de las rocas,Consumidor secundario,Chotacabras,Competencia,10,44,9
+958,Mariposa cristal,Productor,Anaconda,Depredación,5,8,7
+962,Mono capuchino,Consumidor primario,Capibara,Descomposición,3,26,9
+964,Caimán negro,Consumidor secundario,Pez globo de agua dulce,Parasitismo,7,40,4
+965,Cotorra,Productor,Caimán enano,Simbiosis,3,25,1
+967,Sajino,Productor,Mono titi,Parasitismo,2,34,3
+969,Rana arborícola,Consumidor secundario,Jaguar,Depredación,4,18,2
+971,Manatí amazónico,Consumidor primario,Caimán enano,Herbivoría,8,29,8
+973,Mariposa cristal,Productor,Pato criollo,Depredación,4,48,8
+976,Mono araña,Productor,Tucán,Competencia,5,7,6
+977,Hormiga cortadora,Productor,Rana arborícola,Herbivoría,6,29,10
+978,Tapir,Consumidor secundario,Colibrí,Depredación,1,23,9
+980,Caimán blanco,Consumidor secundario,Serpiente coral,Herbivoría,6,16,3
+981,Iguana,Consumidor secundario,Aguará guazú,Herbivoría,8,42,5
+982,Arapaima,Consumidor secundario,Mono nocturno,Competencia,10,27,8
+983,Caimán blanco,Productor,Pez beta salvaje,Parasitismo,6,41,8
+984,Pez globo de agua dulce,Productor,Mono leoncito,Parasitismo,7,13,6
+985,Piraña roja,Consumidor secundario,Rana venenosa,Herbivoría,4,8,6
+988,Tucán,Consumidor secundario,Murciélago frutero,Simbiosis,2,7,2
+989,Murciélago vampiro,Consumidor primario,Zorro de oreja corta,Descomposición,1,25,7
+992,Mono aullador,Productor,Rana venenosa,Simbiosis,4,3,4
+993,Guacamaya roja,Productor,Libélula roja,Simbiosis,8,2,4
+994,Pez disco,Consumidor primario,Murciélago vampiro,Herbivoría,9,45,7
+996,Serpiente liana,Consumidor secundario,Libélula roja,Descomposición,3,30,10
+997,Mono capuchino,Consumidor secundario,Hormiga cortadora,Parasitismo,2,27,6
+1000,Mono barrigudo,Consumidor secundario,Manatí amazónico,Simbiosis,5,24,2
+479,Cotorra,Descomponedor,Pez gato,Simbiosis,3,34,8
+569,Mono nocturno,Descomponedor,Perro de monte,Competencia,3,23,6
+132,Martín pescador,Productor,Hoatzin,Herbivoría,9,49,7
+47,Tamandúa,Consumidor secundario,Hormiga bala,Competencia,8,47,6
+520,Mono barrigudo,Consumidor primario,Serpiente liana,Simbiosis,5,34,7
+312,Carpintero,Consumidor primario,Delfín rosado,Parasitismo,6,46,1
+391,Mono araña,Descomponedor,Guacamaya roja,Simbiosis,9,20,1
+440,Mono choro,Consumidor secundario,Colibrí,Competencia,8,27,9
+394,Rana venenosa,Productor,Rana arborícola,Parasitismo,1,40,2
+551,Tarántula,Descomponedor,Pez beta salvaje,Descomposición,10,31,2
+77,Raya de agua dulce,Productor,Carpintero,Competencia,9,13,6
+868,Pez cuchillo,Consumidor secundario,Tamandúa,Parasitismo,1,18,10
+432,Pez cuchillo,Productor,Loro,Simbiosis,7,21,1
+792,Murciélago frutero,Descomponedor,Mono ardilla,Herbivoría,7,38,5
+696,Mono belicoso,Consumidor secundario,Rana venenosa,Herbivoría,5,9,7
+149,Anaconda,Consumidor secundario,Tigrillo,Simbiosis,8,42,5
+383,Jaguar,Descomponedor,Pez globo de agua dulce,Herbivoría,2,15,7
+883,Pecarí,Consumidor secundario,Serpiente liana,Depredación,9,33,3
+29,Martín pescador,Productor,Colibrí,Competencia,7,31,5
+96,Guacamaya roja,Descomponedor,Piraña roja,Parasitismo,7,27,8
+400,Mono araña,Productor,Aguará guazú,Competencia,5,14,10
+196,Libélula roja,Consumidor primario,Rana venenosa,Competencia,6,13,3
+447,Mono emperador,Consumidor secundario,Pez gato,Parasitismo,8,3,6
+442,Mono pichico,Productor,Raya de agua dulce,Parasitismo,6,41,5
+637,Pez globo de agua dulce,Consumidor primario,Mono aullador,Descomposición,9,27,2
+407,Mono titi,Consumidor secundario,Gallito de las rocas,Simbiosis,6,32,9
+641,Zorro de oreja corta,Descomponedor,Pez cuchillo,Parasitismo,6,47,10
+483,Raya de agua dulce,Consumidor secundario,Boa constrictor,Simbiosis,10,28,7
+520,Mono barrigudo,Consumidor primario,Serpiente liana,Simbiosis,5,34,7
+183,Boa constrictor,Productor,Arapaima,Competencia,4,39,5
+192,Martín pescador,Consumidor secundario,Mono nocturno,Herbivoría,9,33,1
+485,Pez beta salvaje,Consumidor secundario,Mono araña,Depredación,4,27,1
+148,Gallito de las rocas,Productor,Iguana,Parasitismo,5,22,9
+997,Mono capuchino,Consumidor secundario,Hormiga cortadora,Parasitismo,2,27,6
+880,Caimán negro,Consumidor secundario,Águila harpía,Herbivoría,1,38,7
+364,Chotacabras,Consumidor primario,Carpintero,Simbiosis,7,12,2
+859,Manatí amazónico,Productor,Mono emperador,Descomposición,3,10,2
+555,Guacamaya roja,Productor,Serpiente coral,Parasitismo,6,13,7
+121,Pato de torrente,Productor,Mono choro,Simbiosis,2,22,3
+981,Iguana,Consumidor secundario,Aguará guazú,Herbivoría,8,42,5
+245,Hormiga cortadora,Productor,Mono belicoso,Simbiosis,4,21,7
+121,Pato de torrente,Productor,Mono choro,Simbiosis,2,22,3
+468,Murciélago frutero,Consumidor secundario,Tarántula,Depredación,8,43,4
+167,Cotorra,Productor,Mariposa cristal,Descomposición,2,18,7
+326,Nutria gigante,Consumidor secundario,Pez disco,Herbivoría,3,29,7
+384,Mono barrigudo,Consumidor secundario,Pez gato,Herbivoría,3,12,10
+296,Hormiga cortadora,Consumidor secundario,Armadillo,Simbiosis,9,36,3
+679,Mono chorongo,Consumidor primario,Martín pescador,Herbivoría,7,9,9
+546,Tamandúa,Consumidor secundario,Caimán negro,Competencia,1,16,2
+46,Mono titi pigmeo,Consumidor primario,Pez cuchillo,Depredación,7,26,1
+996,Serpiente liana,Consumidor secundario,Libélula roja,Descomposición,3,30,10
+25,Martín pescador,Consumidor secundario,Pez gato,Depredación,8,46,10
+689,Colibrí,Productor,Guacamayo,Simbiosis,2,3,4
+770,Boa constrictor,Consumidor primario,Mono choro,Descomposición,2,26,2
+474,Mono lanudo,Productor,Mono velludo,Depredación,4,15,1
+666,Caimán blanco,Productor,Guacamaya roja,Competencia,10,18,7
+692,Mono titi pigmeo,Productor,Mono leoncito,Competencia,8,15,2
+449,Perro de monte,Descomponedor,Mono pichico,Competencia,8,48,7
+904,Carpintero,Consumidor secundario,Mono aullador,Parasitismo,8,22,7
+811,Pez beta salvaje,Consumidor primario,Piraña roja,Herbivoría,6,5,2
+22,Mono capuchino,Descomponedor,Rana arborícola,Competencia,3,11,8
+22,Mono capuchino,Descomponedor,Rana arborícola,Competencia,3,11,8
+714,Mono pichico,Productor,Tortuga charapa,Depredación,3,40,6
+919,Pez hacha,Consumidor secundario,Puma,Simbiosis,10,4,9
+329,Gallina de monte,Descomponedor,Guacamaya azul,Simbiosis,2,45,7
+997,Mono capuchino,Consumidor secundario,Hormiga cortadora,Parasitismo,2,27,6
+627,Pez beta salvaje,Descomponedor,Caimán enano,Depredación,10,41,7
+168,Loro,Consumidor secundario,Delfín rosado,Simbiosis,1,6,3
+950,Mono choro,Consumidor secundario,Colibrí,Descomposición,1,5,7
+245,Hormiga cortadora,Productor,Mono belicoso,Simbiosis,4,21,7
+773,Mono titi pigmeo,Productor,Tamandúa,Parasitismo,3,34,8
+738,Tarántula,Productor,Piraña roja,Parasitismo,5,16,7
+189,Pez gato,Descomponedor,Armadillo,Descomposición,2,34,9
+318,Zorro de oreja corta,Consumidor primario,Guacamaya roja,Depredación,9,38,7
+21,Tarántula,Descomponedor,Mono leoncito,Herbivoría,4,49,10
+594,Rana venenosa,Productor,Manatí amazónico,Parasitismo,6,1,8
+687,Mono titi pigmeo,Consumidor secundario,Murciélago vampiro,Herbivoría,8,2,7
+664,Mono belicoso,Consumidor primario,Rana arborícola,Descomposición,2,8,5
+244,Delfín rosado,Descomponedor,Pez gato,Herbivoría,9,28,2
+687,Mono titi pigmeo,Consumidor secundario,Murciélago vampiro,Herbivoría,8,2,7
+309,Jaguar,Productor,Boa constrictor,Herbivoría,1,29,8
+589,Murciélago frutero,Productor,Águila harpía,Descomposición,7,18,7
+528,Tapir,Productor,Mono aullador,Simbiosis,1,2,6
+829,Tapir,Consumidor primario,Murciélago vampiro,Competencia,9,20,7
+120,Boa constrictor,Productor,Caimán enano,Herbivoría,9,16,5
+335,Anaconda,Consumidor primario,Tarántula,Descomposición,5,15,6
+393,Pato criollo,Descomponedor,Perro de monte,Parasitismo,9,30,3
+473,Mono araña,Consumidor primario,Tortuga charapa,Simbiosis,4,29,1
+929,Hormiga cortadora,Descomponedor,Pez beta salvaje,Descomposición,5,43,10
+929,Hormiga cortadora,Descomponedor,Pez beta salvaje,Descomposición,5,43,10
+68,Tamandúa,Consumidor primario,Murciélago frutero,Herbivoría,6,21,7
+277,Pato criollo,Productor,Mono belicoso,Simbiosis,8,15,3
+851,Iguana,Consumidor secundario,Puma,Depredación,8,21,3
+950,Mono choro,Consumidor secundario,Colibrí,Descomposición,1,5,7
+272,Iguana,Consumidor secundario,Pez gato,Herbivoría,7,50,9
+852,Águila harpía,Consumidor primario,Hormiga bala,Herbivoría,5,19,9
+673,Tucán,Productor,Delfín rosado,Depredación,7,36,6
+815,Zorro de oreja corta,Descomponedor,Caimán negro,Depredación,10,46,3
+82,Mono nocturno,Consumidor primario,Martín pescador,Competencia,2,9,3
+1000,Mono barrigudo,Consumidor secundario,Manatí amazónico,Simbiosis,5,24,2
+659,Sajino,Consumidor primario,Pato criollo,Simbiosis,10,47,8
+414,Nutria gigante,Consumidor secundario,Martín pescador,Herbivoría,8,47,6
+809,Guacamaya azul,Productor,Colibrí,Descomposición,9,45,1
+373,Pez gato,Consumidor primario,Jaguar,Herbivoría,9,26,2
+29,Martín pescador,Productor,Colibrí,Competencia,7,31,5
+768,Capibara,Descomponedor,Mono lanudo,Herbivoría,6,46,10
+976,Mono araña,Productor,Tucán,Competencia,5,7,6
+802,Caimán enano,Productor,Pez globo de agua dulce,Simbiosis,7,27,4
+61,Serpiente coral,Consumidor secundario,Hormiga bala,Herbivoría,3,18,8
+136,Libélula roja,Productor,Caimán negro,Herbivoría,4,6,9
+993,Guacamaya roja,Productor,Libélula roja,Simbiosis,8,2,4
+37,Tucán,Productor,Jaguar,Simbiosis,6,4,9
+807,Pez disco,Descomponedor,Libélula roja,Depredación,10,40,7
+661,Tigrillo,Descomponedor,Arapaima,Depredación,7,31,10
+697,Aguará guazú,Consumidor primario,Pez gato,Depredación,3,1,1
+619,Pato criollo,Consumidor secundario,Mariposa cristal,Parasitismo,8,31,2
+718,Caimán enano,Consumidor secundario,Mono emperador,Competencia,5,48,5
+511,Tapir,Productor,Pez globo de agua dulce,Simbiosis,2,8,2
+123,Tigrillo,Productor,Mono titi,Simbiosis,7,3,3
+992,Mono aullador,Productor,Rana venenosa,Simbiosis,4,3,4
+829,Tapir,Consumidor primario,Murciélago vampiro,Competencia,9,20,7
+460,Tapir,Consumidor primario,Mono choro,Competencia,1,45,7
+795,Jaguar,Consumidor primario,Nutria gigante,Descomposición,4,39,10
+601,Puma,Productor,Hormiga cortadora,Competencia,6,49,9
+413,Rana venenosa,Productor,Nutria gigante,Simbiosis,5,40,5
+953,Gallina de monte,Consumidor secundario,Mono emperador,Simbiosis,4,41,9
+96,Guacamaya roja,Descomponedor,Piraña roja,Parasitismo,7,27,8
+600,Mono barrigudo,Descomponedor,Martín pescador,Parasitismo,7,29,4
+451,Mono araña,Consumidor secundario,Arapaima,Depredación,2,13,4
+257,Hormiga cortadora,Productor,Mono ardilla,Descomposición,3,20,4
+451,Mono araña,Consumidor secundario,Arapaima,Depredación,2,13,4
+475,Mono leoncito,Descomponedor,Murciélago frutero,Herbivoría,10,19,9
+329,Gallina de monte,Descomponedor,Guacamaya azul,Simbiosis,2,45,7
+154,Carpintero,Productor,Caimán blanco,Simbiosis,1,17,5
+64,Mono chorongo,Productor,Mariposa cristal,Herbivoría,8,4,5
+969,Rana arborícola,Consumidor secundario,Jaguar,Depredación,4,18,2
+5,Escorpión negro,Consumidor secundario,Hormiga bala,Competencia,5,35,9
+687,Mono titi pigmeo,Consumidor secundario,Murciélago vampiro,Herbivoría,8,2,7
+740,Caimán blanco,Descomponedor,Puma,Herbivoría,3,25,3
+251,Tamandúa,Productor,Guacamaya roja,Descomposición,7,12,8
+326,Nutria gigante,Consumidor secundario,Pez disco,Herbivoría,3,29,7
+242,Caimán enano,Consumidor primario,Serpiente coral,Depredación,6,13,4
+1000,Mono barrigudo,Consumidor secundario,Manatí amazónico,Simbiosis,5,24,2
+83,Loro,Descomponedor,Tucán,Herbivoría,7,41,9
+60,Murciélago frutero,Productor,Mono titi,Parasitismo,10,36,6
+870,Pez cuchillo,Consumidor primario,Puma,Herbivoría,4,24,9
+148,Gallito de las rocas,Productor,Iguana,Parasitismo,5,22,9
+93,Rana arborícola,Consumidor secundario,Delfín rosado,Simbiosis,9,25,3
+976,Mono araña,Productor,Tucán,Competencia,5,7,6
+829,Tapir,Consumidor primario,Murciélago vampiro,Competencia,9,20,7
+372,Águila harpía,Productor,Pato criollo,Descomposición,9,46,4
+361,Caimán negro,Descomponedor,Mono velludo,Parasitismo,7,12,5
+342,Delfín rosado,Descomponedor,Aguará guazú,Herbivoría,8,31,5
+171,Hoatzin,Consumidor primario,Rana venenosa,Competencia,8,22,10
+967,Sajino,Productor,Mono titi,Parasitismo,2,34,3
+57,Nutria gigante,Productor,Loro,Herbivoría,1,22,10
+372,Águila harpía,Productor,Pato criollo,Descomposición,9,46,4
+441,Mono araña,Productor,Anaconda,Competencia,4,44,1
+738,Tarántula,Productor,Piraña roja,Parasitismo,5,16,7
+344,Iguana,Descomponedor,Pez globo de agua dulce,Simbiosis,2,48,7
+96,Guacamaya roja,Descomponedor,Piraña roja,Parasitismo,7,27,8
+61,Serpiente coral,Consumidor secundario,Hormiga bala,Herbivoría,3,18,8
+246,Rana venenosa,Productor,Raya de agua dulce,Descomposición,1,16,10
+406,Mono lanudo,Consumidor secundario,Mono barrigudo,Depredación,1,36,8
+969,Rana arborícola,Consumidor secundario,Jaguar,Depredación,4,18,2
+128,Mono ardilla,Productor,Serpiente coral,Depredación,9,14,4
+917,Murciélago frutero,Consumidor secundario,Gallito de las rocas,Herbivoría,3,14,3
+217,Anaconda,Productor,Tamandúa,Descomposición,10,21,7
+101,Manatí amazónico,Consumidor primario,Guacamayo,Parasitismo,8,50,6
+444,Armadillo,Consumidor primario,Martín pescador,Herbivoría,9,15,5
+349,Pez hacha,Consumidor primario,Arapaima,Herbivoría,5,46,8
+132,Martín pescador,Productor,Hoatzin,Herbivoría,9,49,7
+295,Armadillo,Consumidor secundario,Pez gato,Simbiosis,1,48,2
+367,Pato criollo,Consumidor primario,Manatí amazónico,Herbivoría,1,27,9
+406,Mono lanudo,Consumidor secundario,Mono barrigudo,Depredación,1,36,8
+383,Jaguar,Descomponedor,Pez globo de agua dulce,Herbivoría,2,15,7
+762,Pato criollo,Descomponedor,Mono ardilla,Competencia,7,27,3
+551,Tarántula,Descomponedor,Pez beta salvaje,Descomposición,10,31,2
+208,Hormiga bala,Consumidor primario,Pez hacha,Competencia,6,16,7
+838,Armadillo,Consumidor primario,Mono titi pigmeo,Herbivoría,10,27,6
+762,Pato criollo,Descomponedor,Mono ardilla,Competencia,7,27,3
+373,Pez gato,Consumidor primario,Jaguar,Herbivoría,9,26,2
+669,Caimán enano,Consumidor secundario,Tortuga charapa,Depredación,5,43,9
+714,Mono pichico,Productor,Tortuga charapa,Depredación,3,40,6
+312,Carpintero,Consumidor primario,Delfín rosado,Parasitismo,6,46,1
+408,Mono velludo,Descomponedor,Mono araña,Descomposición,5,33,1
+295,Armadillo,Consumidor secundario,Pez gato,Simbiosis,1,48,2
+971,Manatí amazónico,Consumidor primario,Caimán enano,Herbivoría,8,29,8
+756,Pecarí,Consumidor primario,Pato criollo,Descomposición,7,5,7
+259,Mono choro,Consumidor primario,Tucán,Herbivoría,8,49,8
+558,Rana arborícola,Consumidor primario,Oso hormiguero,Parasitismo,9,19,10
+734,Pato de torrente,Productor,Martín pescador,Simbiosis,7,34,9
+786,Oso hormiguero,Descomponedor,Pez beta salvaje,Simbiosis,6,4,6
+403,Cotorra,Consumidor secundario,Pato criollo,Descomposición,9,9,10
+361,Caimán negro,Descomponedor,Mono velludo,Parasitismo,7,12,5
+469,Perro de monte,Consumidor primario,Tortuga charapa,Herbivoría,3,34,9
+1,Mono emperador,Productor,Caimán enano,Simbiosis,6,33,3
+581,Pez cuchillo,Consumidor secundario,Gallito de las rocas,Depredación,3,25,2
+82,Mono nocturno,Consumidor primario,Martín pescador,Competencia,2,9,3
+414,Nutria gigante,Consumidor secundario,Martín pescador,Herbivoría,8,47,6
+732,Boa constrictor,Consumidor secundario,Mono pichico,Herbivoría,9,44,9
+848,Mono nocturno,Descomponedor,Tamandúa,Depredación,6,5,4
+143,Guacamayo,Productor,Colibrí,Herbivoría,3,39,9
+965,Cotorra,Productor,Caimán enano,Simbiosis,3,25,1
+410,Serpiente coral,Consumidor secundario,Hoatzin,Competencia,7,47,10
+73,Puma,Descomponedor,Armadillo,Parasitismo,6,41,5
+659,Sajino,Consumidor primario,Pato criollo,Simbiosis,10,47,8
+422,Mono emperador,Productor,Mono leoncito,Simbiosis,9,24,7
+689,Colibrí,Productor,Guacamayo,Simbiosis,2,3,4
+384,Mono barrigudo,Consumidor secundario,Pez gato,Herbivoría,3,12,10
+483,Raya de agua dulce,Consumidor secundario,Boa constrictor,Simbiosis,10,28,7
+424,Pecarí,Consumidor primario,Iguana,Descomposición,10,11,2
+671,Arapaima,Descomponedor,Martín pescador,Simbiosis,6,3,1
+389,Hormiga bala,Productor,Tigrillo,Herbivoría,8,11,3
+618,Capibara,Descomponedor,Pecarí,Competencia,8,35,3
+5,Escorpión negro,Consumidor secundario,Hormiga bala,Competencia,5,35,9
+116,Rana arborícola,Descomponedor,Piraña roja,Simbiosis,7,5,3
+453,Mono capuchino,Consumidor secundario,Escorpión negro,Descomposición,1,19,3
+60,Murciélago frutero,Productor,Mono titi,Parasitismo,10,36,6
+278,Rana venenosa,Productor,Pez globo de agua dulce,Depredación,6,11,9
+756,Pecarí,Consumidor primario,Pato criollo,Descomposición,7,5,7
+81,Manatí amazónico,Consumidor secundario,Mono titi pigmeo,Parasitismo,6,45,10
+536,Piraña roja,Consumidor primario,Pez beta salvaje,Simbiosis,10,25,2
+484,Mono nocturno,Consumidor primario,Libélula roja,Simbiosis,1,26,4
+39,Pecarí,Productor,Mono leoncito,Parasitismo,5,37,7
+397,Hormiga cortadora,Consumidor secundario,Mono pichico,Simbiosis,2,9,5
+121,Pato de torrente,Productor,Mono choro,Simbiosis,2,22,3
+761,Martín pescador,Consumidor primario,Pez disco,Descomposición,5,36,7
+563,Tamandúa,Consumidor primario,Pato criollo,Descomposición,5,10,4
+953,Gallina de monte,Consumidor secundario,Mono emperador,Simbiosis,4,41,9
+397,Hormiga cortadora,Consumidor secundario,Mono pichico,Simbiosis,2,9,5
+876,Pez globo de agua dulce,Descomponedor,Mono nocturno,Simbiosis,1,35,8
+492,Pez beta salvaje,Descomponedor,Delfín rosado,Competencia,9,32,4
+315,Mariposa cristal,Consumidor primario,Aguará guazú,Herbivoría,4,17,9
+389,Hormiga bala,Productor,Tigrillo,Herbivoría,8,11,3
+532,Mono belicoso,Consumidor primario,Hormiga cortadora,Parasitismo,3,5,8
+226,Jaguar,Consumidor primario,Hormiga cortadora,Parasitismo,10,18,8
+804,Caimán negro,Consumidor secundario,Armadillo,Depredación,10,25,9
+309,Jaguar,Productor,Boa constrictor,Herbivoría,1,29,8
+325,Pez beta salvaje,Descomponedor,Águila harpía,Parasitismo,2,6,4
+488,Mono belicoso,Consumidor secundario,Murciélago vampiro,Parasitismo,1,22,4
+143,Guacamayo,Productor,Colibrí,Herbivoría,3,39,9
+819,Tapir,Consumidor secundario,Zorro de oreja corta,Descomposición,3,30,10
+673,Tucán,Productor,Delfín rosado,Depredación,7,36,6
+432,Pez cuchillo,Productor,Loro,Simbiosis,7,21,1
+93,Rana arborícola,Consumidor secundario,Delfín rosado,Simbiosis,9,25,3
+136,Libélula roja,Productor,Caimán negro,Herbivoría,4,6,9
+821,Loro,Descomponedor,Raya de agua dulce,Parasitismo,4,8,3
+387,Mono araña,Descomponedor,Hoatzin,Parasitismo,1,10,6
+642,Gallina de monte,Consumidor primario,Cotorra,Depredación,2,17,6
+508,Pez beta salvaje,Descomponedor,Tucán,Descomposición,7,6,1
+907,Mono araña,Consumidor secundario,Hormiga cortadora,Competencia,9,36,9
+620,Guacamaya roja,Consumidor primario,Sajino,Herbivoría,10,17,2
+449,Perro de monte,Descomponedor,Mono pichico,Competencia,8,48,7
+394,Rana venenosa,Productor,Rana arborícola,Parasitismo,1,40,2
+944,Anaconda,Productor,Hoatzin,Descomposición,9,25,9
+636,Iguana,Productor,Mono lanudo,Parasitismo,6,49,7
+984,Pez globo de agua dulce,Productor,Mono leoncito,Parasitismo,7,13,6
+144,Chotacabras,Descomponedor,Rana venenosa,Parasitismo,2,45,7
+857,Puma,Descomponedor,Hormiga bala,Parasitismo,10,40,5
+71,Oso hormiguero,Productor,Mono choro,Descomposición,10,3,7
+636,Iguana,Productor,Mono lanudo,Parasitismo,6,49,7
+281,Pez disco,Descomponedor,Caimán enano,Depredación,10,13,9
+848,Mono nocturno,Descomponedor,Tamandúa,Depredación,6,5,4
+809,Guacamaya azul,Productor,Colibrí,Descomposición,9,45,1
+912,Capibara,Descomponedor,Arapaima,Herbivoría,9,40,4
+377,Mono emperador,Consumidor primario,Gallina de monte,Herbivoría,4,15,10
+296,Hormiga cortadora,Consumidor secundario,Armadillo,Simbiosis,9,36,3
+550,Mono leoncito,Descomponedor,Hormiga cortadora,Parasitismo,1,50,2
+440,Mono choro,Consumidor secundario,Colibrí,Competencia,8,27,9
+727,Caimán negro,Consumidor primario,Jaguar,Depredación,10,18,8
+37,Tucán,Productor,Jaguar,Simbiosis,6,4,9
+372,Águila harpía,Productor,Pato criollo,Descomposición,9,46,4
+836,Libélula roja,Consumidor secundario,Armadillo,Competencia,8,28,2
+957,Gallito de las rocas,Consumidor secundario,Chotacabras,Competencia,10,44,9
+41,Mono pichico,Productor,Mono belicoso,Competencia,6,20,1
+315,Mariposa cristal,Consumidor primario,Aguará guazú,Herbivoría,4,17,9
+451,Mono araña,Consumidor secundario,Arapaima,Depredación,2,13,4
+51,Mono titi pigmeo,Productor,Tigrillo,Competencia,10,26,8
+426,Serpiente coral,Productor,Mono choro,Competencia,10,16,9
+664,Mono belicoso,Consumidor primario,Rana arborícola,Descomposición,2,8,5
+520,Mono barrigudo,Consumidor primario,Serpiente liana,Simbiosis,5,34,7
+308,Pez cuchillo,Consumidor primario,Mono belicoso,Descomposición,2,19,2
+356,Loro,Consumidor secundario,Sajino,Simbiosis,7,47,7
+378,Capibara,Descomponedor,Rana venenosa,Descomposición,1,4,6
+483,Raya de agua dulce,Consumidor secundario,Boa constrictor,Simbiosis,10,28,7
+165,Mono ardilla,Consumidor primario,Nutria gigante,Depredación,10,40,2
+659,Sajino,Consumidor primario,Pato criollo,Simbiosis,10,47,8
+212,Caimán enano,Consumidor primario,Guacamayo,Herbivoría,4,48,10
+197,Mono titi,Descomponedor,Oso hormiguero,Descomposición,6,47,5
+571,Mono belicoso,Descomponedor,Anaconda,Depredación,1,29,8
+673,Tucán,Productor,Delfín rosado,Depredación,7,36,6
+103,Murciélago frutero,Consumidor primario,Gallina de monte,Parasitismo,9,40,8
+811,Pez beta salvaje,Consumidor primario,Piraña roja,Herbivoría,6,5,2
+349,Pez hacha,Consumidor primario,Arapaima,Herbivoría,5,46,8
+186,Gallina de monte,Consumidor primario,Cotorra,Simbiosis,10,38,10
+856,Guacamayo,Descomponedor,Nutria gigante,Simbiosis,9,16,5
+75,Murciélago vampiro,Productor,Mono titi,Competencia,1,42,1
+719,Iguana,Descomponedor,Perro de monte,Herbivoría,9,23,3
+497,Pecarí,Productor,Mono ardilla,Descomposición,8,19,4
+315,Mariposa cristal,Consumidor primario,Aguará guazú,Herbivoría,4,17,9
+214,Mono pichico,Consumidor secundario,Pato criollo,Competencia,9,29,2
+642,Gallina de monte,Consumidor primario,Cotorra,Depredación,2,17,6
+75,Murciélago vampiro,Productor,Mono titi,Competencia,1,42,1
+101,Manatí amazónico,Consumidor primario,Guacamayo,Parasitismo,8,50,6
+393,Pato criollo,Descomponedor,Perro de monte,Parasitismo,9,30,3
+862,Arapaima,Consumidor primario,Nutria gigante,Descomposición,9,40,1
+713,Pez beta salvaje,Descomponedor,Pez disco,Depredación,9,27,8
+670,Nutria gigante,Consumidor primario,Caimán negro,Herbivoría,2,9,3
+93,Rana arborícola,Consumidor secundario,Delfín rosado,Simbiosis,9,25,3
+581,Pez cuchillo,Consumidor secundario,Gallito de las rocas,Depredación,3,25,2
+377,Mono emperador,Consumidor primario,Gallina de monte,Herbivoría,4,15,10
+62,Caimán enano,Consumidor primario,Mono titi pigmeo,Parasitismo,9,49,4
+491,Pez cuchillo,Consumidor primario,Mono chorongo,Simbiosis,2,29,2
+896,Libélula roja,Productor,Gallina de monte,Parasitismo,8,2,2
+449,Perro de monte,Descomponedor,Mono pichico,Competencia,8,48,7
+796,Gallina de monte,Descomponedor,Serpiente coral,Herbivoría,2,50,10
+969,Rana arborícola,Consumidor secundario,Jaguar,Depredación,4,18,2
+582,Pez gato,Consumidor primario,Mono emperador,Herbivoría,3,28,6
+958,Mariposa cristal,Productor,Anaconda,Depredación,5,8,7
+315,Mariposa cristal,Consumidor primario,Aguará guazú,Herbivoría,4,17,9
+834,Mariposa cristal,Productor,Mono barrigudo,Descomposición,3,30,9
+373,Pez gato,Consumidor primario,Jaguar,Herbivoría,9,26,2
+266,Sajino,Consumidor primario,Pez globo de agua dulce,Depredación,4,17,2
+925,Mono chorongo,Descomponedor,Pez hacha,Descomposición,7,34,1
+444,Armadillo,Consumidor primario,Martín pescador,Herbivoría,9,15,5
+436,Martín pescador,Productor,Aguará guazú,Descomposición,1,31,2
+768,Capibara,Descomponedor,Mono lanudo,Herbivoría,6,46,10
+469,Perro de monte,Consumidor primario,Tortuga charapa,Herbivoría,3,34,9
+675,Tamandúa,Descomponedor,Tigrillo,Descomposición,8,25,9
+130,Mono leoncito,Descomponedor,Mono belicoso,Herbivoría,4,8,8
+98,Mono lanudo,Consumidor primario,Armadillo,Descomposición,4,19,8
+98,Mono lanudo,Consumidor primario,Armadillo,Descomposición,4,19,8
+373,Pez gato,Consumidor primario,Jaguar,Herbivoría,9,26,2
+181,Libélula roja,Consumidor primario,Delfín rosado,Herbivoría,4,33,1
+569,Mono nocturno,Descomponedor,Perro de monte,Competencia,3,23,6
+687,Mono titi pigmeo,Consumidor secundario,Murciélago vampiro,Herbivoría,8,2,7
+919,Pez hacha,Consumidor secundario,Puma,Simbiosis,10,4,9
+931,Cotorra,Consumidor secundario,Caimán enano,Descomposición,5,8,2
+348,Mono titi pigmeo,Consumidor secundario,Serpiente liana,Simbiosis,9,9,10
+632,Murciélago frutero,Productor,Aguará guazú,Herbivoría,7,22,7
+344,Iguana,Descomponedor,Pez globo de agua dulce,Simbiosis,2,48,7
+982,Arapaima,Consumidor secundario,Mono nocturno,Competencia,10,27,8
+460,Tapir,Consumidor primario,Mono choro,Competencia,1,45,7
+325,Pez beta salvaje,Descomponedor,Águila harpía,Parasitismo,2,6,4
+432,Pez cuchillo,Productor,Loro,Simbiosis,7,21,1
+627,Pez beta salvaje,Descomponedor,Caimán enano,Depredación,10,41,7
+297,Caimán blanco,Productor,Rana arborícola,Parasitismo,10,2,1
+371,Mono barrigudo,Descomponedor,Perro de monte,Parasitismo,3,42,8
+329,Gallina de monte,Descomponedor,Guacamaya azul,Simbiosis,2,45,7
+121,Pato de torrente,Productor,Mono choro,Simbiosis,2,22,3
+950,Mono choro,Consumidor secundario,Colibrí,Descomposición,1,5,7
+849,Martín pescador,Consumidor secundario,Cotorra,Depredación,6,25,8
+841,Tigrillo,Productor,Tamandúa,Competencia,1,35,9
+41,Mono pichico,Productor,Mono belicoso,Competencia,6,20,1
+892,Guacamaya roja,Consumidor primario,Mono araña,Depredación,7,20,3
+709,Caimán enano,Descomponedor,Loro,Depredación,6,31,4
+418,Anaconda,Descomponedor,Pato criollo,Parasitismo,9,10,1
+940,Armadillo,Descomponedor,Mono araña,Simbiosis,1,20,4
+565,Mono emperador,Consumidor primario,Pez cuchillo,Simbiosis,6,11,9
+870,Pez cuchillo,Consumidor primario,Puma,Herbivoría,4,24,9
+566,Piraña roja,Descomponedor,Manatí amazónico,Competencia,8,50,2
+714,Mono pichico,Productor,Tortuga charapa,Depredación,3,40,6
+675,Tamandúa,Descomponedor,Tigrillo,Descomposición,8,25,9
+660,Sajino,Descomponedor,Puma,Competencia,7,14,5
+188,Mono barrigudo,Productor,Aguará guazú,Herbivoría,4,16,6
+415,Aguará guazú,Consumidor primario,Caimán blanco,Competencia,8,42,6
+127,Mono pichico,Productor,Mono araña,Descomposición,10,31,1
+294,Perro de monte,Descomponedor,Jaguar,Competencia,2,14,2
+466,Tamandúa,Consumidor secundario,Rana arborícola,Depredación,2,29,7
+793,Oso hormiguero,Descomponedor,Mono leoncito,Competencia,10,37,8
+857,Puma,Descomponedor,Hormiga bala,Parasitismo,10,40,5
+482,Pez globo de agua dulce,Productor,Mono leoncito,Competencia,7,7,3
+529,Mono leoncito,Descomponedor,Mono araña,Descomposición,8,35,9
+123,Tigrillo,Productor,Mono titi,Simbiosis,7,3,3
+489,Mono belicoso,Consumidor primario,Anaconda,Simbiosis,10,29,7
+263,Escorpión negro,Descomponedor,Mono emperador,Parasitismo,7,44,6
+197,Mono titi,Descomponedor,Oso hormiguero,Descomposición,6,47,5
+367,Pato criollo,Consumidor primario,Manatí amazónico,Herbivoría,1,27,9
+54,Iguana,Descomponedor,Tucán,Depredación,10,35,3
+714,Mono pichico,Productor,Tortuga charapa,Depredación,3,40,6
+917,Murciélago frutero,Consumidor secundario,Gallito de las rocas,Herbivoría,3,14,3
+601,Puma,Productor,Hormiga cortadora,Competencia,6,49,9
+337,Hormiga bala,Consumidor primario,Hoatzin,Depredación,1,1,6
+440,Mono choro,Consumidor secundario,Colibrí,Competencia,8,27,9
+74,Pez disco,Consumidor primario,Mono barrigudo,Herbivoría,10,46,5
+482,Pez globo de agua dulce,Productor,Mono leoncito,Competencia,7,7,3
+436,Martín pescador,Productor,Aguará guazú,Descomposición,1,31,2
+318,Zorro de oreja corta,Consumidor primario,Guacamaya roja,Depredación,9,38,7
+150,Murciélago vampiro,Productor,Rana arborícola,Simbiosis,1,36,3
+224,Arapaima,Descomponedor,Hormiga bala,Simbiosis,6,2,3
+188,Mono barrigudo,Productor,Aguará guazú,Herbivoría,4,16,6
+796,Gallina de monte,Descomponedor,Serpiente coral,Herbivoría,2,50,10
+126,Caimán enano,Consumidor primario,Pato de torrente,Depredación,7,29,9
+448,Rana venenosa,Descomponedor,Pez gato,Parasitismo,7,19,6
+844,Mono barrigudo,Consumidor primario,Jaguar,Depredación,6,14,6
+763,Mono velludo,Descomponedor,Mono choro,Parasitismo,6,32,2
+315,Mariposa cristal,Consumidor primario,Aguará guazú,Herbivoría,4,17,9
+491,Pez cuchillo,Consumidor primario,Mono chorongo,Simbiosis,2,29,2
+967,Sajino,Productor,Mono titi,Parasitismo,2,34,3
+460,Tapir,Consumidor primario,Mono choro,Competencia,1,45,7
+98,Mono lanudo,Consumidor primario,Armadillo,Descomposición,4,19,8
+985,Piraña roja,Consumidor secundario,Rana venenosa,Herbivoría,4,8,6
+389,Hormiga bala,Productor,Tigrillo,Herbivoría,8,11,3
+113,Tamandúa,Descomponedor,Guacamaya azul,Parasitismo,4,39,1
+488,Mono belicoso,Consumidor secundario,Murciélago vampiro,Parasitismo,1,22,4
+150,Murciélago vampiro,Productor,Rana arborícola,Simbiosis,1,36,3
+804,Caimán negro,Consumidor secundario,Armadillo,Depredación,10,25,9
+548,Raya de agua dulce,Consumidor primario,Mono nocturno,Herbivoría,7,30,5
+110,Murciélago vampiro,Productor,Hormiga bala,Simbiosis,10,9,5
+297,Caimán blanco,Productor,Rana arborícola,Parasitismo,10,2,1
+136,Libélula roja,Productor,Caimán negro,Herbivoría,4,6,9
+745,Mono emperador,Consumidor secundario,Mono capuchino,Descomposición,4,31,7
+261,Cotorra,Consumidor primario,Mono titi pigmeo,Competencia,3,43,3
+659,Sajino,Consumidor primario,Pato criollo,Simbiosis,10,47,8
+740,Caimán blanco,Descomponedor,Puma,Herbivoría,3,25,3
+61,Serpiente coral,Consumidor secundario,Hormiga bala,Herbivoría,3,18,8
+928,Murciélago vampiro,Consumidor primario,Mono aullador,Herbivoría,10,25,4
+468,Murciélago frutero,Consumidor secundario,Tarántula,Depredación,8,43,4
+200,Hormiga bala,Consumidor primario,Capibara,Competencia,9,19,1
